@@ -1,0 +1,18 @@
+.start-button {
+    height: 20px;
+    font-size: 15px;
+    width: 50%;
+    padding: 0.5rem;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid #1d1d1d;
+    color: #1d1d1d;
+    margin: 3px;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.start-button:hover {
+    background: #1d1d1d;
+    color: #efefef;
+}
